@@ -7,7 +7,7 @@ This material is related to the paper ``Using the Median vs the Average when Est
 
 In this repository, the file `rqmc-aver-med-collection.pdf` explains what experiments were made and how they were made, gives links to the Java code and tools that was used, and provides a large collection of results and plots. 
 
-The folder `histograms` contains .pdf files with the histograms of all empirical QMC and RQMC distributions, one file per integrand, `datapl` contains all the data files used to make these histograms, and `mse` contains all the files to make the MSE plots and comparisons.
+The folder `histograms` contains .pdf files with the histograms of all empirical QMC and RQMC distributions, one file per integrand, `datapl` contains the 3865 data files used to make these histograms, and `mse` contains all the files to make the MSE plots and comparisons.
 
 The code Java used to make the experiments is in the `https://github.com/pierrelecuyer/ssj/tree/develop/src/main/docs/examples/rqmcexperiments` folder of the [SSJ library](https://github.com/pierrelecuyer/ssj). This is in the 'develop' branch of the repository. To run this code, one must first install SSJ by following the instructions given in the README of the GitHub site of SSJ. 
 
